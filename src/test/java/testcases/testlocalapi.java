@@ -6,6 +6,8 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 
+//To run json server -> json-server --watch db.json
+
 public class testlocalapi {
 
     @Test
